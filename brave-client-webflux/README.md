@@ -11,7 +11,7 @@
 ## How to Run
 
 ```bash
-git clone https://github.com/chensoul/spring-ai-mcp-sample.git
+git clone https://github.com/zhijunio/spring-ai-mcp-sample.git
 cd spring-ai-mcp-sample/brave-client-webflux
 
 export OPENAI_API_KEY='your-openai-api-key-here'
