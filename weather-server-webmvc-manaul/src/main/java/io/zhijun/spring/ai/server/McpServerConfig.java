@@ -1,5 +1,6 @@
 package io.zhijun.spring.ai.server;
 
+import io.modelcontextprotocol.json.McpJsonDefaults;
 import io.modelcontextprotocol.json.McpJsonMapper;
 import io.modelcontextprotocol.server.McpServer;
 import io.modelcontextprotocol.server.McpSyncServer;
@@ -21,7 +22,7 @@ public class McpServerConfig {
     @Bean
     @ConditionalOnProperty(prefix = "transport", name = "mode", havingValue = "stdio")
     public StdioServerTransportProvider stdioServerTransportProvider() {
-        return new StdioServerTransportProvider(McpJsonMapper.createDefault());
+        return new StdioServerTransportProvider(McpJsonDefaults.getMapper());
     }
 
     // SSE transport
