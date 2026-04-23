@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>cc.chensoul</groupId>
+    <groupId>io.zhijun.spring.ai</groupId>
     <artifactId>mcp-api-key-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mcp-api-key-client</name>

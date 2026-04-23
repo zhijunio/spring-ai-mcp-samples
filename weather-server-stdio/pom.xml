@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>cc.chensoul</groupId>
+    <groupId>io.zhijun.spring.ai</groupId>
     <artifactId>weather-server-stdio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>weather-server-stdio</name>

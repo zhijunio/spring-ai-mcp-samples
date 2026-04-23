@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>cc.chensoul</groupId>
+    <groupId>io.zhijun.spring.ai</groupId>
     <artifactId>mcp-annotation-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mcp-annotation-client</name>

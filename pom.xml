@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
          https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>cc.chensoul</groupId>
+    <groupId>io.zhijun.spring.ai</groupId>
     <artifactId>spring-ai-mcp-samples</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -25,7 +25,7 @@
         <module>weather-server-webmvc</module>
         <module>weather-server-webflux</module>
         <module>weather-server-stdio</module>
-        <module>weather-server-webmvc-manual</module>
+        <module>weather-server-webmvc-manaul</module>
 
         <module>weather-client-webflux</module>
         <module>weather-client-stdio</module>

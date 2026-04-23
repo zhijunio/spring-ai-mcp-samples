@@ -10,7 +10,7 @@
         <version>4.0.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>cc.chensoul</groupId>
+    <groupId>io.zhijun.spring.ai</groupId>
     <artifactId>brave-client-stdio-manual</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>brave-client-stdio-programmatic-config</name>
